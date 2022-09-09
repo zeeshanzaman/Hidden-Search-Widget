@@ -41,10 +41,10 @@ body {
     outline: none;
 }
 
-.seach.active .input {
-    width: 200px;
+.search.active .input {
+    width: 200px !important;
 }
 
 .search.active .btn {
-    transform: translateX(198px);
+    transform: translateX(198px) !important;
 }
